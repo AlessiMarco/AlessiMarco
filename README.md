@@ -1,7 +1,4 @@
-<h1>Hello!👋 I'm Marco Alessi</h1>
-I'm born in Sicily in Agrigento on 16/05/1997, passionate about technology and coding, one of my greatest interests, when I'm not connected, is football.
-
-
-
-
-
+<h1>Ciao! I'm Marco Alessi 👋</h1>
+🏛️ Born on May 16th, 1997. 
+💻 Passionate about coding, continuously learning new programming languages, and staying professionally updated.
+🏃‍♂️ In my free time, I enjoy staying active and playing sports.
